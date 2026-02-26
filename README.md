@@ -10,3 +10,13 @@ This project analyzes retail sales data using Python.
 
 ## Technologies
 Python, Pandas, Matplotlib
+
+##Libraries Used
+
+ Pandas
+Used for:
+Creating dataset (DataFrame)
+Cleaning data (dropna)
+Grouping data (groupby)
+Calculations (sum)
+Date handling (to_datetime)
